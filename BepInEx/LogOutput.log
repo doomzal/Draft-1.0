@@ -1,0 +1,41 @@
+[Message: Preloader] BepInEx 6.0.0-be.697 - Among Us
+[Message: Preloader] Built from commit 53625800b86f6c68751445248260edf0b27a71c2
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 32-bit (x86)
+[Info   :   BepInEx] Running under Unity 2020.3.45f1
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [Mini.RegionInstall 1.2.0]
+[Info   :Mini.RegionInstall] Starting Mini.RegionInstall
+[Info   :   BepInEx] Loading [Reactor 2.3.1]
+[Message:   Reactor] Among Us 2024.11.26 Steam
+[Info   :Il2CppInterop] Registered mono type Reactor.Utilities.Dispatcher in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Reactor.Utilities.UI.ReactorPopup in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Reactor.ReactorPlugin+ReactorComponent in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Reactor.Utilities.Coroutines+Component in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Reactor.Utilities.Extensions.StreamExtensions+StreamWrapper in il2cpp domain
+[Info   :   BepInEx] Loading [The Other Roles 4.8.0]
+[Info   :Mini.RegionInstall] Current region: Modded EU (MEU) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://au-eu.duikbo.at:443
+[Info   :The Other Roles] Adding 1 regions
+[Info   :Mini.RegionInstall] Current region: Modded EU (MEU) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://au-eu.duikbo.at:443
+[Info   :Mini.RegionInstall] Current server: Http-1: https://au-eu.duikbo.at:443 False
+[Info   :Il2CppInterop] Registered mono type TheOtherRoles.Modules.CustomHats.HatsLoader in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type BepInEx.Unity.IL2CPP.Utils.Collections.Il2CppManagedEnumerator in il2cpp domain
+[Message:The Other Roles] Download manifest at: https://raw.githubusercontent.com/TheOtherRolesAU/TheOtherHats/master/CustomHats.json
+[Info   :Il2CppInterop] Registered mono type TheOtherRoles.Modules.ModUpdater in il2cpp domain
+[Message:The Other Roles] Trying to load Submerged...
+[Info   :The Other Roles] Loading TOR completed!
+[Message:   BepInEx] Chainloader startup complete
+[Info   :Mini.RegionInstall] Current region: Modded EU (MEU) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://au-eu.duikbo.at:443
+[Info   :Mini.RegionInstall] Current region: Modded EU (MEU) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://au-eu.duikbo.at:443
+[Info   :   Reactor] Region file reloaded
